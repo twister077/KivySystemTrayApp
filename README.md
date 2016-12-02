@@ -1,5 +1,5 @@
 # KivySystemTrayApp
-A basic Kivy app with systemtray possibilities
+A basic Kivy app with systemtray possibilities like a system tray menu and a notification balloon.
 
 Based on the work done by Simon Brunning regarding the use of PyWin32. Although the notify balloon was nog implemented in his version. For that the work done by Github user boppreh was used. Both project were partly used to create the systemtray menu and balloon messaging system.
 
